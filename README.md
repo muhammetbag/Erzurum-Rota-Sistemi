@@ -51,7 +51,7 @@
 
 ## 🛠️ Teknik Altyapı
 
-```
+```text
 erzurum_rota/
 ├── lib/
 │   ├── main.dart                  # Ana uygulama & TabBar
@@ -100,7 +100,7 @@ erzurum_rota/
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/erzurum-bb/erzurum-rota.git
+git clone [https://github.com/erzurum-bb/erzurum-rota.git](https://github.com/erzurum-bb/erzurum-rota.git)
 cd erzurum-rota
 
 # Bağımlılıkları yükle
@@ -134,7 +134,7 @@ final baseUrl = "https://YOUR_OSRM_DRIVING_SERVER";
 
 ## 🗺️ Rota Algoritması Nasıl Çalışır?
 
-```
+```text
 Kullanıcı A → B noktası seçer
          │
          ▼
@@ -168,3 +168,11 @@ Kullanıcı A → B noktası seçer
 5. Pull Request aç
 
 ---
+
+## 📥 Uygulamayı İndirip Deneyin
+
+Uygulamayı test etmek için cihazınıza indirebilirsiniz:
+
+1. [**Bitirme Projesi Web Sitemizi**](https://bitirme-website.vercel.app) ziyaret edin.
+2. Sitenin sağ üst köşesinde yer alan **"İndir"** butonuna tıklayın.
+3. Yönlendirildiğiniz sayfadan **Taksi** ve **Rota** uygulamalarının apk dosyalarını indirip telefonunuza kurabilirsiniz.
